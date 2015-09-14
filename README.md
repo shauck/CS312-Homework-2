@@ -60,3 +60,10 @@
 
 
 
+#Although, all of the neighborhoods listed have spanish as their main non-english language,
+#this does not paint the whole picture.  For example, spanish neighborhoods like Gage Park and South Lawndale lead the list in
+#terms of homes that are overcrowded.  Despite this, these neighborhoods are not in the top three in terms of households below
+#poverty line or the percent of people that are unemployed.  So, these overcrowded Spanish neighborhoods are full are working individuals(even
+#though these neighborhoods rank highest in terms of people that do not have their high school diploma), while neighborhoods like
+#West Englewood (1.2% spanish-speaking), Riverdale (1.1% Spanish-speaking), and Fuller Park (2.5% spanish-speaking) rank the
+#highest in terms of unemployment. 
