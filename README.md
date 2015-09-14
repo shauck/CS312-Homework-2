@@ -5,6 +5,8 @@
 #that the pandas library for python might be a good fit for what i was trying to accomplish: merge two .csv files together.  Using pandas, and innate python file reading capabilities I was
 #able to read both file by fetching the file path from my computer, print out the info, and merge the two on a common column.  (This part of the code, the working part, is in attempt.py)
 
+#i included the main.py, but all the lines are commented out to avoid errors when running the working program
+
 #the merged .csv file is in output.csv
 
 #Findings
